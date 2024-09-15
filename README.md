@@ -101,4 +101,3 @@ SOFTWARE.
 
 ---
 
-This version includes emojis to make the file more visually engaging. You can copy and paste it into your `README.md`. Let me know if you need any further changes! 😄
